@@ -14,8 +14,6 @@ This feature significantly enhances accessibility and caters to the diverse need
 # Output:
 ![Screenshot 2023-11-05 133339](https://github.com/Lekhamm/Byte-Translate/assets/117354716/8f3571c1-6297-42ac-a7d0-f5a06bda7f3d)
 
-![Screenshot 2023-11-05 133526](https://github.com/Lekhamm/Byte-Translate/assets/117354716/545f9f13-1e86-4c99-a5ae-39da91ae1efa)
-
 ![Screenshot 2023-11-05 133541](https://github.com/Lekhamm/Byte-Translate/assets/117354716/cbc736d9-6e53-42ed-aa68-66844b256a8c)
 
 ![Screenshot 2023-11-05 133829](https://github.com/Lekhamm/Byte-Translate/assets/117354716/3451d5a7-edf1-45fe-a8ec-e1d015463560)
