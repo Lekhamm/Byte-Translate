@@ -1,4 +1,5 @@
 # Byte Translate:
+- ByteTranslate: From Pixels to Words to Multiliterate to Voices 
 Introducing an innovative application for image-to-text and text-to-speech translation. 
 Seamlessly enabling the conversion of visual content into multiple languages, fostering inclusive communication and enhancing information accessibility.
 Providing a comprehensive solution for individuals striving to overcome language barriers and effectively access information by creating an intuitive interface for easy image uploads. 
@@ -22,6 +23,21 @@ of web pages.
 - Bootstrap: A popular CSS framework that provides pre-designed templates and 
 components for responsive web design. 
 - JavaScript: To enhance user experience.
+
+# FEATURES OF THE PROPOSED SOLUTION 
+- User-Provided Images: Users have the freedom to upload their own images, including photos, or 
+screenshots, making the app highly versatile. 
+- Multilingual Translation: Users can translate text extracted from their images into numerous 
+languages, making it effortless to understand and communicate in different linguistic contexts. 
+- Text-to-Speech (TTS): The app takes translation a step further by converting the translated text 
+into speech, allowing users to listen to translations, aiding comprehension, and facilitating 
+language learning. 
+- Information: Allows users to access knowledge from extracted text with the aid of image 
+descriptions that has the potential to significantly benefit tourists. By utilizing image   recognition 
+and OCR technology, users can easily identify objects and scenes within images and extract 
+relevant text. 
+- User-Friendly: We've prioritized a user-friendly interface to ensure that individuals of all 
+backgrounds can navigate the app with ease.
 
 # Workflow:
 ![image](https://github.com/Lekhamm/Byte-Translate/assets/117354716/034bba63-450d-42f1-9b20-504905552b04)
