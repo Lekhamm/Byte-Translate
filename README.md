@@ -1,6 +1,6 @@
 # Byte Translate:
 - ByteTranslate: From Pixels to Words to Multiliterate to Voices.
--Introducing an innovative application for image-to-text and text-to-speech translation. 
+- Introducing an innovative application for image-to-text and text-to-speech translation. 
 Seamlessly enabling the conversion of visual content into multiple languages, fostering inclusive communication and enhancing information accessibility.
 Providing a comprehensive solution for individuals striving to overcome language barriers and effectively access information by creating an intuitive interface for easy image uploads. 
 Advanced Optical Character Recognition (OCR) technology accurately processes images, extracting text for further processing.
