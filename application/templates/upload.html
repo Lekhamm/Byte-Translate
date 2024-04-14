@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<style>
+    body {
+        background-image: url("{{ url_for('static', filename='images/bg.jpeg') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .carousel-item img {
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .carousel-indicators {
+        bottom: -40px;
+    }
+
+    .btn-custom {
+        font-family: 'Lobster', cursive;
+        border-radius: 20px;
+    }
+</style>
+
+<div class="d-flex justify-content-center mt-5">
+        <h1 style="font-family: 'Lobster', cursive; color:white;">
+Image File To Get Translation
+</h1></div>
+{{ dropzone.create(action='upload') }}
+{{ dropzone.load_js() }}
+{{ dropzone.config() }}
+
+{% endblock %}
