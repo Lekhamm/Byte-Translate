@@ -10,18 +10,18 @@ This feature significantly enhances accessibility and caters to the diverse need
 
 # Tech Stack:
 Programming Languages: 
- Python: NLP libraries and tools are predominantly available in Python, making it 
+- Python: NLP libraries and tools are predominantly available in Python, making it 
 the ideal language for integrating NLP into your project. 
 Web Development Technologies: 
- Flask: A Python web framework used to build the web application and handle HTTP 
+- Flask: A Python web framework used to build the web application and handle HTTP 
 requests and responses. 
- HTML (Hypertext Markup Language): Used for creating the structure and content 
+-  HTML (Hypertext Markup Language): Used for creating the structure and content 
 of web pages. 
- CSS (Cascading Style Sheets): Employed for styling and formatting the appearance 
+- CSS (Cascading Style Sheets): Employed for styling and formatting the appearance 
 of web pages. 
- Bootstrap: A popular CSS framework that provides pre-designed templates and 
+- Bootstrap: A popular CSS framework that provides pre-designed templates and 
 components for responsive web design. 
- JavaScript: To enhance user experience.
+- JavaScript: To enhance user experience.
 
 # Workflow:
 ![image](https://github.com/Lekhamm/Byte-Translate/assets/117354716/034bba63-450d-42f1-9b20-504905552b04)
